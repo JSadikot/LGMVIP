@@ -6,4 +6,10 @@ This repository is to share my workings as a Web Developer Intern in the Virtual
 
 I would like to thank Aman kesarwani Sir and the team of LetsGrowMore Community for giving me this opportunity to enhance my skills and work on such an amazing projects.
 
-During my internship, I successfully completed the following four tasks:
+During my internship, I successfully completed the following three tasks:
+
+#Task 1
+
+#Task 2
+
+#Task 4
