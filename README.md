@@ -8,8 +8,11 @@ I would like to thank Aman kesarwani Sir and the team of LetsGrowMore Community 
 
 During my internship, I successfully completed the following three tasks:
 
-#Task 1
+# Task 1
+https://jsadikot.github.io/To-Do-List-WebApp/
 
-#Task 2
+# Task 2
+https://jsadikot.github.io/React-WebApp/
 
-#Task 4
+# Task 4
+https://jsadikot.github.io/Calculator-WebApp/
