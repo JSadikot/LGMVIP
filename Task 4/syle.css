@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    font: arial;
+    box-sizing: border-box;
+    
+}
+.heading{
+    text-align: center;
+   padding-top: 4rem;
+    font-size: 3rem;
+    color: rgb(25, 25, 113);
+    min-width: 50px;
+}
+.maincontainer{
+    display: flex;
+    height: 90vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    background-color: rgba(0, 0, 0, 1);
+    min-width: 300px;
+    display: flex;
+    flex-direction: column;
+    border: 3px solid antiquewhite;
+    box-shadow: 0 0 10px rgb(126, 118, 118), 0 0 10px rgb(126, 118, 118);
+    border-radius: 20px;
+    
+}
+.input{
+    background-color:  rgba(0, 0, 0, 1);
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border: none;
+    font-size:25px ;
+    padding: 30px 2px 20px;
+    margin: 15px;
+    text-align:end;
+    color: rgb(210, 204, 204);
+    
+}
+.row{
+    margin-top: 2px;
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.btn{
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+    border-radius: 50%;
+    border: none;
+    background-color: rgba(49, 49, 49, 1);
+    color: rgba(220, 220, 219, 1);
+    font-size: 20px;
+
+}
+.btn-zero{
+    width: 130px;
+    border-radius: 20px;
+    text-align: start;
+    padding-left: 20px;
+}
+.btn-AC{
+    font-size: 16px;
+}
+.bg-yellow{
+    background-color: rgba(245, 152, 6, 1);
+}
+.bg-grey{
+    background-color: rgba(159, 159, 159, 1);
+    color: rgba(2, 2, 2, 1);
+}
