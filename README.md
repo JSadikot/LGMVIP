@@ -14,5 +14,8 @@ https://jsadikot.github.io/To-Do-List-WebApp/
 # Task 2
 https://jsadikot.github.io/React-WebApp/
 
+# Task3
+https://jsadikot.github.io/Registration-Form/
+
 # Task 4
 https://jsadikot.github.io/Calculator-WebApp/
